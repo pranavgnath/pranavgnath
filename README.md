@@ -35,7 +35,7 @@ From programming 8051 microcontrollers to developing a CPR robot with real-time 
 
 ## 🛠️ Featured Projects
 
-### RevivaTron CPR Robot
+## RevivaTron CPR Robot
 An automated CPR device that delivers optimized chest compressions using real-time sensor data.
 
 ![RevivaTron Demo](https://your-gif-link.com/revivatron-demo.gif) <!-- Replace with your GIF -->
@@ -48,10 +48,9 @@ An automated CPR device that delivers optimized chest compressions using real-ti
 
 ---
 
-### Smart Trolley using RFID
+## Smart Trolley using RFID
 Automated retail trolley system with RFID integration for inventory management.
 
-![Smart Trolley Image](https://your-image-link.com/smart-trolley.png) <!-- Replace with your image -->
 
 - LPC2129 microcontroller-based  
 - Automated checkout and inventory tracking  
