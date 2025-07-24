@@ -81,7 +81,6 @@ Vehicle control system automating wiper and indicator functions via CAN communic
 
 - 📧 pranavgnath143@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/pranavgnath)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) <!-- Optional -->
 
 ---
 
