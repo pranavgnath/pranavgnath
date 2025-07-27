@@ -36,41 +36,8 @@ From programming 8051 microcontrollers to developing a CPR robot with real-time 
 ## 🛠️ Featured Projects
 
 ## RevivaTron CPR Robot
-An automated CPR device that delivers optimized chest compressions using real-time sensor data.
-
-![RevivaTron Demo](https://your-gif-link.com/revivatron-demo.gif) <!-- Replace with your GIF -->
-
-- Adaptive compression algorithm  
-- Embedded C on ARM LPC2129  
-- Real-time sensor monitoring and actuator control  
-
-🔗 [Repo Link](https://github.com/pranavgnath/revivatron-cpr-robot)
-
----
-
 ## Smart Trolley using RFID
-Automated retail trolley system with RFID integration for inventory management.
-
-
-- LPC2129 microcontroller-based  
-- Automated checkout and inventory tracking  
-
-🔗 [Repo Link](https://github.com/pranavgnath/smart-trolley)
-
----
-
 ### Body Control Module (CAN Protocol)
-Vehicle control system automating wiper and indicator functions via CAN communication.
-
-![Body Control Module GIF](https://your-gif-link.com/body-control.gif) <!-- Replace with your GIF -->
-
-- CAN bus communication between MCUs  
-- Embedded C implementation  
-
-🔗 [Repo Link](https://github.com/pranavgnath/body-control-module)
-
----
-
 ## 📈 GitHub Stats
 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavgnath&show_icons=true&theme=gruvbox)
